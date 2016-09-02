@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-sample-1-client-side-solution",
+    "id": "a0fff045-7f2b-41d4-9875-2a26a93c3f9f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-sample-1.spapp"
+  }
+}
